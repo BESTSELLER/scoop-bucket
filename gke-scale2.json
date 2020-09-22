@@ -1,0 +1,21 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/BESTSELLER/gke-scale2/releases/download/v0.0.3/gke-scale2_0.0.3_windows_386.zip",
+            "bin": [
+                "gke-scale2.exe"
+            ],
+            "hash": "91244519029a0bf3ad7fa57ce3b2e0d106de0c22881d655d9a1ef630f86aae4c"
+        },
+        "64bit": {
+            "url": "https://github.com/BESTSELLER/gke-scale2/releases/download/v0.0.3/gke-scale2_0.0.3_windows_amd64.zip",
+            "bin": [
+                "gke-scale2.exe"
+            ],
+            "hash": "55d57aade64fa847d56906f779921ff0f1d1e6a7ca2614eebe897da1d436c9cb"
+        }
+    },
+    "homepage": "https://github.com/BESTSELLER/gke-scale2",
+    "description": "gke-scale2 allow you to quickly scale k8s cluster in google cloud"
+}
