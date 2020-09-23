@@ -6,14 +6,14 @@
             "bin": [
                 "gke-scale2.exe"
             ],
-            "hash": "54a82c033714a2de2bb32c41a36e78ed372c3026a944b7948669800cd3bfe71b"
+            "hash": "f2e484e26f52aa6ba9512e162fdaf3afa2179d34f84cbef03fd6241b62fd14c2"
         },
         "64bit": {
             "url": "https://github.com/BESTSELLER/gke-scale2/releases/download/v0.0.4/gke-scale2_0.0.4_windows_amd64.zip",
             "bin": [
                 "gke-scale2.exe"
             ],
-            "hash": "9c80b7640ef93c8b22872ae88865515a5845aa4c74b129c010f131f975c67e87"
+            "hash": "36e6133cc272ff2f5d46eefa26fae9b0eba242bd056f01175f3ec1c6d347c8de"
         }
     },
     "homepage": "https://github.com/BESTSELLER/gke-scale2",
